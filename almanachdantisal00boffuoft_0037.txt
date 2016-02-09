@@ -1,0 +1,41 @@
+ergo subtrahitur circulus 235 annorum a revolutione 294 annorum,
+non semper eumdem numerum dierum aufertur, et proinde non
+habemus idem principium lunationis‚ sed aut eodem die, aut die
+praecedenti vel subsequenti. Attamen propter bissextum haec re-
+gula Prophacii fallax est in progressu temporis et possibile est
+quod dies initialis novae revolutionis differat etiam duobus diebus
+et amplius ab illo Prophacii. Bissextus enim anticipat uno die
+omnes lunationes sequentes. Regula tamen deservit eodem circiter
+modo, quum numerus feriae bene sit definitus; et contra revolu-
+tiones possunt facilius inveniri una ex altera.
+
+Ut inveniatur ergo dies initialis secundae revolutionis 294 die-
+rum, sat est subtrahere 235 a 295 et residuum 60 indicat quod
+secunda revolutio incipit vel eodem die (29 Decem. 1304 fer. 3)
+quo prima aut die antecedenti vel subsequenti, sed certe feria 5.
+Et ferme iam invenimus diem 29 Decem. 1323 fer. 5. In progressu
+vero lunationum a 60a usque ad 294ει habemus modo facili initia
+omnium lunationum. Postea vero revertitur denuo ad 60²¹, et ul-
+tima secundae revolutionis erit 118³. Tertia revolutio incipit a 119a
+usque ad 294³¹¹¹ et rursus a 60³ usque ad 177³m. Et sic deinceps.
+
+Sit autem propositum nobis invenire initia in lunationibus
+praecedentibus mensi martio a. 1300. Sufficiens erit invertere re-
+gulas Prophacii inveniendo feriam per subtractionem 2 dierum et
+initia 60³2 orae. .. lunationis retrocedendo a 294³. Scilicet invenien-
+dum est qua die in 235², 234³... lunatione 1ae revolutionis cadunt
+initia lunationum. In almanach Prophacii 233ἃ lunatio 1ae revolutionis
+pertinet ad annum 1319 et retrocedendo haec habentur initia:
+
+235 234 233 232 231 230 229 228 227 226 225 224
+
+FerIa 4 2 l ὁ 5 3 2 7 5 3 2 7
+D. Mensis 21 23 24 25 26 27 28 30 30 l 2 3
+Mens. Feb. Jan. Dec. Nov. Oct. Sept. Aug. Jul. Jun. Jun. Mai. Apr.
+
+proinde subtrahitur 2 a numero feriae et reddendo diem mensis
+consonam feriae, quia mense Feb. et Jan. a. 1300 lit. Domin. cst
+c et toto anno 1299 est l), habemus initia sequentia:
+
+sse XXXIII ὦ
+
